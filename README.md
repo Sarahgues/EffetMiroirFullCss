@@ -1,4 +1,4 @@
-### Fichier de base pour commencer un mini-projet 
+### Fichier de base pour commencer un mini-projet avec sass
 
 Avec : 
 * des photos randoms
@@ -8,7 +8,7 @@ Avec :
 * des svg
 * jQuery et Bootstrap reliés
 
-#### Démarrer projet avec Sass 
-* `npm run sass`
+### Source et tuto :
+## FROM SCRATCH -> [CSS #3] Effet miroir en full CSS
 
-browser-sync start --proxy localhost/***  --files '**/*' --no-notify
+* https://www.youtube.com/watch?v=UPx3ksXhMJc&list=PLEiMYEzpB4QvFzUe2KPVgJ0EInbNbt1rH&index=5
